@@ -1,3 +1,15 @@
+# Calculaotor App (React.js)
+Built immediate execution logic without library and formula execution logic with math.js.
+
+# Built With 
+
+* [React.js](https://github.com/facebook/create-react-app)
+* [math.js](https://mathjs.org/) 
+
+# Demo
+
+View project at: [http://Shuto46490802.github.io/react-calculator](http://Shuto46490802.github.io/react-calculator)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

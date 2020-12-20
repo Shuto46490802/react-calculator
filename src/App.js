@@ -26,6 +26,7 @@ const App = () => {
     setOn(!on);
     if(on){
       setInput("");
+      setFormula("");
     }else{
       setInput("WELCOME");
       setTimeout(() => {setInput(0)}, 1500);
